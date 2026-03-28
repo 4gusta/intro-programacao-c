@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 .vscode
+=======
+>>>>>>> 300d9ba25aeaee531a50fde358d2707b40a7829d
 # Prerequisites
 *.d
 
@@ -53,4 +56,8 @@ Mkfile.old
 dkms.conf
 
 # debug information files
+<<<<<<< HEAD
 *.dwo
+=======
+*.dwo
+>>>>>>> 300d9ba25aeaee531a50fde358d2707b40a7829d
