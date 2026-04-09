@@ -6,9 +6,9 @@ Repositório com exercícios desenvolvidos durante a disciplina de Introdução 
 
 ## 📁 Estrutura
 
-- Aula 1  
-- Aula 2  
-- Aula 3  
+- Aula 2.1  
+- Aula 2.2  
+- Aula 2.3  
 
 Cada pasta contém códigos em linguagem C feitos durante as aulas.
 
